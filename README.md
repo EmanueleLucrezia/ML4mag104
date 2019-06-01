@@ -1,1 +1,1 @@
-# ML4mag104
+# Machine Learning for mag104, Ivrea (To)
