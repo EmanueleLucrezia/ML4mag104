@@ -1,0 +1,11 @@
+- expense is sampled uniformly conditioning on age group (<18,19-26,27-45,>46)
+- age clusters are color code with shades of gray
+- visit number is the cumulative entrance count
+- ista and f.b. is a binomial distr with p depending on the age 
+- all variables are uncontrolled but 'attended_by', which can be decided online form Fede
+
+- all other variables were set random without any conditioning or arbitrary by me
+
+TODOs: I will personally go there to record this data. Wanna come?
+
+
